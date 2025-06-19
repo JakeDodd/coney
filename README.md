@@ -32,7 +32,7 @@ make clean
 ### Install raylib
 Navigate to [Raylib](https://www.raylib.com/index.html) to install raylib for windows
 ### Build & Run project
-In file explorer, navigate to C:\raylib\w64devkit and click on w64devkit.exe
+In file explorer, navigate to C:\raylib\w64devkit and click on w64devkit.exe  <br>
 This will open a Unix style command prompt
 ```
 git clone https://github.com/JakeDodd/coney.git
