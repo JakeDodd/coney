@@ -1,5 +1,4 @@
 # GNU/Linux
-## Prerequisites
 ### Install required tools
 ```
 sudo apt install build-essential git
@@ -30,5 +29,16 @@ make clean
 ```
 
 # Windows
+### Install raylib
+Navigate to [Raylib](https://www.raylib.com/index.html) to install raylib for windows
+### Build & Run project
+In file explorer, navigate to C:\raylib\w64devkit and click on w64devkit.exe
+This will open a Unix style command prompt
+```
+git clone https://github.com/JakeDodd/coney.git
+cd coney
+make # Build with make
+```
+The build will create build/main.exe
 
 # Mac
