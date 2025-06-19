@@ -21,12 +21,14 @@ sudo make install
 ```
 git clone https://github.com/JakeDodd/coney.git
 cd coney
-make
-./build/main
+make # Build with make
+./build/main # Run the game
 ```
 To delete the executable and compiled library files:
-`make clean`
+```
+make clean
+```
 
-#Windows
+# Windows
 
-#Mac
+# Mac
